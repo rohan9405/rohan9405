@@ -53,9 +53,4 @@ Previously:
 
 **MBA, IIM Calcutta · B.Tech in Computer Engineering, NIT Surat**
 
-## A couple of things I've written about
-
-- [Predict & Win: building engagement during the IPL](https://tech.sportskeeda.com/predict-win-how-sportskeeda-drove-engagement-in-ipl-2023-a6ecc1100900)
-- [Building Sportskeeda's FIFA World Cup experience](https://tech.sportskeeda.com/case-how-we-cracked-fifa-world-cup-2022-at-sportskeeda-3ab76fc9c7a3)
-
 Happy to compare notes on product, AI and small tools that make daily life a little better. [Say hello on LinkedIn](https://www.linkedin.com/in/rohantripathi/).

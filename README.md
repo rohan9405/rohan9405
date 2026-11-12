@@ -4,11 +4,11 @@ I'm a product manager who likes building things I can use myself. A better TV ho
 
 At work, I build and grow consumer products. Outside work, I follow an idea far enough to turn it into something you can try.
 
-[Portfolio](https://rohan-tripathi-product.vercel.app/) · [Soft Orbit Apps](https://softorbit-apps.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/rohantripathi/) · [Writing](https://medium.com/@rohantripathi)
+[Portfolio](https://rohan-tripathi-product.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/rohantripathi/) · [Writing](https://medium.com/@rohantripathi)
 
 ## Things I've been building
 
-### ⏰ [Horizon](https://softorbit-apps.vercel.app/#horizon)
+### ⏰ [Horizon](https://horizon-alarm-clock.vercel.app/)
 An Android alarm clock that puts every active alarm on one clock face. Set a quick alarm in a tap, or change the face and sounds to suit you. No ads or account.
 
 ### 📺 [StreamHome TV](https://github.com/rohan9405/streamhome-tv)
@@ -57,3 +57,5 @@ Previously:
 **MBA, IIM Calcutta · B.Tech in Computer Engineering, NIT Surat**
 
 Happy to compare notes on product, AI and small tools that make daily life a little better. [Say hello on LinkedIn](https://www.linkedin.com/in/rohantripathi/).
+
+I publish my apps under [Soft Orbit Apps](https://softorbit-apps.vercel.app/).

@@ -4,34 +4,37 @@ I'm a product manager who likes building things I can use myself. A better TV ho
 
 At work, I build and grow consumer products. Outside work, I follow an idea far enough to turn it into something you can try.
 
-[Portfolio](https://rohan-tripathi-product.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/rohantripathi/) · [Writing](https://medium.com/@rohantripathi)
+[Portfolio](https://rohan-tripathi-product.vercel.app/) · [Soft Orbit Apps](https://softorbit-apps.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/rohantripathi/) · [Writing](https://medium.com/@rohantripathi)
 
 ## Things I've been building
 
+### ⏰ [Horizon](https://softorbit-apps.vercel.app/#horizon)
+An Android alarm clock that puts every active alarm on one clock face. Set a quick alarm in a tap, or change the face and sounds to suit you. No ads or account.
+
 ### 📺 [StreamHome TV](https://github.com/rohan9405/streamhome-tv)
-Every streaming app, one home screen. An ad-free Android TV / Google TV launcher with new releases, IMDb ratings and Continue watching across apps. Built on [CleanYourTV](https://github.com/Gathin23/cleanyourtv), with a one-prompt setup.
+Every streaming app, one home screen. An ad-free Android TV / Google TV launcher with new releases by app, genre browsing, IMDb ratings and Continue watching across apps. Built on [CleanYourTV](https://github.com/Gathin23/cleanyourtv), with a one-prompt setup.
 
 [Take a look](https://github.com/rohan9405/streamhome-tv#where-streamhome-fits) · [Set it up](https://github.com/rohan9405/streamhome-tv#set-it-up-with-one-prompt)
 
 ### 💧 [Drip](https://drip-daily-expenses.vercel.app/)
-Your daily spending allowance, with bills and savings already set aside. An Android budgeting app built around one question: how much can I spend today?
+Daily expense tracking for India. drip can turn supported bank texts into transactions on your Android phone, so you can see where your money went. Daily budgeting is optional.
 
 [Explore Drip](https://drip-daily-expenses.vercel.app/)
 
 ### 🟢 [Scoop](https://github.com/rohan9405/scoop)
-A personal Fitbit dashboard for sleep, recovery, strain and stress, with trends and a daily plan. Read-only access to your data, plus an example mode to explore before connecting. Scores are personal estimates, not medical measurements.
+A personal Fitbit dashboard for sleep, recovery, strain and stress, with trends, individual workout details and a daily plan. Try it with example data before connecting Fitbit through Google Health. Access is read-only. Scores are personal estimates, not medical measurements.
 
 [Try it](https://scoop-mauve-two.vercel.app/) · [Product tour](https://scoop-mauve-two.vercel.app/about.html) · [Code](https://github.com/rohan9405/scoop)
 
-### ✈️ [Wayfinder Trips](https://github.com/rohan9405/wayfinder-trips)
+### ✈️ [Wayfinder Trips](https://wayfinder-trips.vercel.app/)
 A conversational travel prototype: plan in chat, then explore maps, fare calendars, flight comparisons and multi-city itineraries through interactive components. Built with Next.js and OpenUI; demo fares and flights are illustrative.
 
-[Try it](https://wayfinder-trips.vercel.app/) · [Code](https://github.com/rohan9405/wayfinder-trips)
+[Try it](https://wayfinder-trips.vercel.app/)
 
 ### 🎬 [StreamRatings](https://github.com/rohan9405/StreamRatings)
-IMDb ratings right on Netflix, Prime Video and Hotstar. Hover for the year and vote count, or click through to IMDb. A small Chrome extension to make choosing what to watch easier.
+IMDb ratings right on Netflix, Prime Video and JioHotstar, with no API key required. Hover for the year and vote count, or click through to IMDb. A small Chrome extension to make choosing what to watch easier.
 
-[Set it up](https://github.com/rohan9405/StreamRatings#quick-start-3-steps) · [Code](https://github.com/rohan9405/StreamRatings)
+[Set it up](https://github.com/rohan9405/StreamRatings#quick-start) · [Code](https://github.com/rohan9405/StreamRatings)
 
 ## What I'm curious about
 
